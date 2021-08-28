@@ -1,1 +1,11 @@
-# valmieras-kursi1
+# valmieras kursu apskats
+
+## Dienas plāns
+
+- Iedzert kafiju
+- Noklausīties lekciju
+
+Vēl kaut ko padarīt.
+## Braukt mājās
+
+...
