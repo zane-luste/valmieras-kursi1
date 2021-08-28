@@ -1,0 +1,1 @@
+# valmieras-kursi1
